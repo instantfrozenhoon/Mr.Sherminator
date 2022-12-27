@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI/START MENU.unity
+    guid: b9678f9c350893542b6bd7e4c87418c3
+  - enabled: 1
+    path: Assets/Scenes/UI/MAIN MENU A.unity
+    guid: 888b0a778ca76f847a17632d16675a29
+  - enabled: 1
+    path: Assets/Scenes/UI/MAIN MENU B.unity
+    guid: dac1f67525ffa3e48aae0a6c62a09042
+  - enabled: 1
+    path: Assets/Scenes/UI/PRE-TEST A.unity
+    guid: 1eb3e774ef333334a86cc6f0cb8dc8aa
+  - enabled: 1
+    path: Assets/Scenes/UI/PLAY.unity
+    guid: 011063b1c3a52a14d998880037222930
+  - enabled: 1
+    path: Assets/Scenes/UI/POST-TEST A.unity
+    guid: 60fdebc9be772b0419888e18149b6071
+  - enabled: 1
+    path: Assets/Scenes/UI/POST-TEST B.unity
+    guid: ac79384c5cf04074b9826563a63af2f8
+  - enabled: 1
+    path: Assets/Scenes/UI/SETTINGS.unity
+    guid: e541115f237d4444bb83862b5624f694
+  - enabled: 1
+    path: Assets/Scenes/UI/QUIZ MODE.unity
+    guid: d66b7d2e25f57ff4aadaef6f864fe280
+  - enabled: 1
+    path: Assets/Scenes/UI/STORY MODE.unity
+    guid: 74b5bab734489a544a4e31690e3ed7d0
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 1.unity
+    guid: b4c28d010209ffe4baa08752b346ec1b
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 2.unity
+    guid: 1af899ac3c07dd94e8361216a9855d2d
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 3.unity
+    guid: d68dd17120ea4cd40b4d4b9aa2bf9344
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 4.unity
+    guid: 1fce8be9b96860540a4ad0bc35918428
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 5.unity
+    guid: 7295a8ce71e5fc54c829601a41f47e16
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 6.unity
+    guid: d9d0a185befd5e44ab973cee89c4b923
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 7.unity
+    guid: 6000565e1368d1e44be5ec8be250c8f5
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 8.unity
+    guid: 3989091e5be43a2479afc4bcaa9c702a
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 9.unity
+    guid: 4224ac0541b521645b3b2ff79ec9831e
+  - enabled: 1
+    path: Assets/Scenes/QUIZ MODE/EASY LVL 10.unity
+    guid: 98e4d6861062e864b8d0d4833ce66842
+  - enabled: 1
+    path: Assets/Scenes/STORY MODE/DUNGEON ARK.unity
+    guid: 2bf82829ec24d6042bd4fd25dab83866
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2d92cf3384ea9364b98d05daf6db6360, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 6add4b9fc487e9148920e4dc1c67ae19, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a280a55208d317a47bdd9f6c72e667f2, type: 2}
